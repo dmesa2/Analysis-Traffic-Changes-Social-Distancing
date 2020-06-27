@@ -1,7 +1,6 @@
 # Analysis of Traffic Changes in Portland, OR Due to Social Distancing
 
 For this project, I used a subset of the data from PORTAL Transportation Data Archive to create two interactive dashboards. The dashboards can be seen at the following link: *placeholder*.
-<br><br>
 
 ## Project Components
 
