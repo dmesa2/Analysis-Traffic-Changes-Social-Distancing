@@ -16,4 +16,4 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
 
 ## Tools
 
-*place list of tools used here*
+*Place list of tools used here*
