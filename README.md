@@ -13,3 +13,7 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
 ## Data Pipeline
 
 *Place image of data pipeline here*
+
+## Tools
+
+*place list of tools used here*
