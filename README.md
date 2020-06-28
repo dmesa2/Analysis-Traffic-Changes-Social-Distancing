@@ -27,3 +27,6 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
  - Cloud SQL <br>
  - Tableau <br>
  - HTML/CSS
+ 
+ ## Turn-in Links
+1. https://docs.google.com/document/d/1d-GBfIaz8_Kvu5JX545qYHkxxw06-LDtiCFffyiHIgQ/edit?usp=sharing
