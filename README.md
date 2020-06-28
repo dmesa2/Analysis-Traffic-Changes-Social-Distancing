@@ -14,7 +14,9 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
 
 ## Data Pipeline
 
-*Place image of data pipeline here*
+<p align="center">
+  <img src="https://github.com/dmesa2/Analysis-Traffic-Changes-Social-Distancing/blob/master/Images/Data%20Pipeline.png?raw=true"/>
+</p>
 
 ## Tools
 
