@@ -20,4 +20,10 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
 
 ## Tools
 
-*Place list of tools used here*
+ - Google Cloud Platform <br>
+ - GCP Cloud Storage <br>
+ - GCP Dataproc <br>
+ - Apache Spark <br>
+ - Cloud SQL <br>
+ - Tableau <br>
+ - HTML/CSS
