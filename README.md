@@ -29,4 +29,4 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
  - HTML/CSS
  
  ## Turn-in Links
-1. https://docs.google.com/document/d/1d-GBfIaz8_Kvu5JX545qYHkxxw06-LDtiCFffyiHIgQ/edit?usp=sharing
+1. Project Plan: https://docs.google.com/document/d/1d-GBfIaz8_Kvu5JX545qYHkxxw06-LDtiCFffyiHIgQ/edit?usp=sharing
