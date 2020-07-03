@@ -10,7 +10,7 @@ There are two main components to this project:
  - Data Pipeline <br>
  - Data Visualization <br>
  
-I created a website *placeholder* that embeds two interactive dashboards and is hosted in Google Cloud. The dashboards were created using Tableau. The dashboards are fed data from a Cloud SQL database that I created to maintain the processed data. The data comes from the Portal Transportation Data Archive and is processed in Apache Spark before being stored in the SQL database.
+I created a website *placeholder* that embeds two interactive dashboards and is hosted in Google Cloud. The dashboards were created using Tableau. The data comes from the Portal Transportation Data Archive and is processed in Apache Spark before being imported to Tableau.
 
 ## Data Pipeline
 
