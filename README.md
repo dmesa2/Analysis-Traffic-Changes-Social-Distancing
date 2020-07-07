@@ -1,6 +1,6 @@
 # Analysis of Social Distancing Traffic Changes in Portland
 
-For this project I used a subset of the data from the PORTAL Transportation Data Archive to create two interactive dashboards. These dashboard visualizations compare the months/years of traffic in Portland, Oregon before Covid-19 to the months and year of traffic during Covid-19. The goal of this is to analyze how a pandemic like Covid-19 can change traffic patterns in a major city like Portland, Oregon.
+For this project I used a subset of the data from the PORTAL Transportation Data Archive to create two interactive dashboards. These dashboard visualizations compare the traffic patterns before and after social distancing was implemented in Portland, OR. The goal of this is to analyze how social distancing during a pandemic can change traffic patterns in a major city like Portland, Oregon.
 
 The dashboards can be seen at the following link: *placeholder*.
 
