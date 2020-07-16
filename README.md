@@ -30,4 +30,5 @@ I created a website *placeholder* that embeds two interactive dashboards and is 
  
  ## Turn-in Links
 1. Project Plan: https://docs.google.com/document/d/1d-GBfIaz8_Kvu5JX545qYHkxxw06-LDtiCFffyiHIgQ/edit?usp=sharing <br>
-2. Midpoint Report: https://docs.google.com/document/d/1OrsfmQHtLilL7PGF2-Kxbah9YMTGkAt78s82FIcL9Xo/edit?usp=sharing
+2. Midpoint Report: https://docs.google.com/document/d/1OrsfmQHtLilL7PGF2-Kxbah9YMTGkAt78s82FIcL9Xo/edit?usp=sharing <br>
+3. Research Paper: https://drive.google.com/file/d/1PqRuI_dN6LVqV0yFFQ1KROs4sLtixl-C/view?usp=sharing
