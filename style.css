@@ -1,0 +1,54 @@
+body{
+    background-color: #8b8a8a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    background-color: rgb(78, 78, 78);
+}
+
+#header{
+    background-color: #444a4d;
+    color: white;
+    text-align: center;
+}
+
+#nav{
+    width: 180px;
+    float: left;
+}
+
+h1{
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+#main{
+    text-align: center;
+}
+
+#vizOne{
+    text-align: center;
+}
+
+#vizTwo{
+    text-align: center;
+}
+
+#footer{
+    clear: both;
+    padding: 10px;
+    background-color: #999999;
+    color: white;
+}
+#viz1596680788728{
+    margin: auto;
+}
+
+#viz1596680828639{
+    margin: auto;
+}
