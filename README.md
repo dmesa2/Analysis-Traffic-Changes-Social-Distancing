@@ -2,7 +2,7 @@
 
 For this project, I used a subset of the data from the PORTAL Transportation Data Archive to create two interactive dashboards. These dashboards compare the traffic pattern changes due to social distancing in Portland, OR. The goal of this is to analyze how social distancing during a pandemic can change traffic patterns in a major city like Portland, Oregon.
 
-The dashboards can be seen at the following link: https://tinyurl.com/yya83bql
+The dashboards can be seen at the following link: https://tinyurl.com/yyetssvd
 
 ## Project Components
 
@@ -10,7 +10,7 @@ There are two main components to this project:
  - Data Pipeline <br>
  - Data Visualization <br>
  
-I created a website: https://tinyurl.com/yya83bql that embeds two interactive dashboards and is hosted in Google Cloud. The dashboards were created using Tableau. The data comes from the Portal Transportation Data Archive and is processed in Apache Spark before being imported to Tableau.
+I created a website: https://tinyurl.com/yyetssvd that embeds two interactive dashboards and is hosted in Google Cloud. The dashboards were created using Tableau. The data comes from the Portal Transportation Data Archive and is processed in Apache Spark before being imported to Tableau.
 
 ## Data Pipeline
 
